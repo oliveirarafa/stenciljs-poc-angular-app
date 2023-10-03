@@ -5,5 +5,6 @@ import { Component } from '@angular/core'
   templateUrl: './home.component.html',
 })
 export class HomeComponent {
-  conteudo: string = 'Valor inicial do input'
+  conteudoBrInput: string = 'Valor inicial do conteudoBrInput'
+  conteudoInput: string = 'Valor inicial do conteudoInput'
 }
